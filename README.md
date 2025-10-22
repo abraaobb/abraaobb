@@ -53,4 +53,4 @@ Acredito que código bom é aquele que **funciona, é limpo e dá orgulho de mos
 
 ---
 
-> 💬 “Escrever código é como montar Lego: começa bagunçado, mas no fim tudo se encaixa — se você tiver paciência (e café).”
+> 💬 “Não é que eu seja tão inteligente, é que eu fico com os problemas por mais tempo.” – Albert Einstein
